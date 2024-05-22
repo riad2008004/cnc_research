@@ -5,8 +5,6 @@
 
 char STEP = MICROSTEP;
 
-// Hi my name is riad
-
 // Servo position for Up and Down
 const int penZUp = 120;
 const int penZDown = 50;
