@@ -1,3 +1,8 @@
+/*
+Ariful Islam Riad
+Department of MTE
+RUET
+*/
 #include <Servo.h>
 #include <AFMotor.h>
 
