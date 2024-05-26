@@ -5,4 +5,11 @@ Development and implementation of a control system for a retrofitted CNC machine
 https://www.mdpi.com/2079-9292/7/10/240
 https://ieeexplore.ieee.org/abstract/document/7225458
 
-The exponential advancement of technology has led to a surge in the adoption and utilization of CNC machines across various industries. The production of inexpensive CNC machines is utilized to decrease the price and intricacy of the machines. The design of an automatic micro CNC machine for PCB drilling and drawing is the subject of this paper. Our project's concept is to design and drill PCBs using a low-cost CNC system; this is accomplished by integrating PC features with an Arduino-based ATMEGA 328 controller. We have implemented a G code for the entire system. G code is merely a language used to instruct computerized machine tools on "how to manufacture something." The how is specified through directives regarding the direction and velocity of motion. 
+The exponential advancement of technology has led to a surge in the adoption and utilization of CNC machines 
+across various industries. The production of inexpensive CNC machines is utilized to decrease the price and 
+intricacy of the machines. The design of an automatic micro CNC machine for PCB drilling and drawing is the 
+subject of this paper. Our project's concept is to design and drill PCBs using a low-cost CNC system; this 
+is accomplished by integrating PC features with an Arduino-based ATMEGA 328 controller. We have implemented 
+a G code for the entire system. G code is merely a language used to instruct computerized machine tools on 
+"how to manufacture something." The how is specified through directives regarding the direction and velocity
+ of motion. 
